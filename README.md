@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reesud6187 - currently an incoming freshman at Georgia Tech, studying Computer Science. 
-- 👀 I’m interested in product/project management and their importance towards software development. 
-- 🌱 I’m currently spending much time enhancing my skills in programming and developing a business acumen. 
+- 👀 I’m interested in product/project management and its importance towards software development. 
+- 🌱 I’m currently spending a lot of time enhancing my skills in programming and developing a business acumen. 
 - 📫 How to reach me - Facebook: Reetesh Sudhakar || Instagram: @reesudhakar || LinkedIn: www.linkedin.com/in/reeteshsudhakar
 
 <!---
