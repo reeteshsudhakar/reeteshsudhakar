@@ -4,6 +4,6 @@
 - 📫 Socials - **Facebook**: Reetesh Sudhakar **||** **Instagram**: @reesudhakar **||** **LinkedIn**: www.linkedin.com/in/reeteshsudhakar
 
 <!---
-reesud6187/reesud6187 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+reeteshsudhakar/reeteshsudhakar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
