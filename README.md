@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Reetesh (Ree) - I am a first-year student at **Georgia Tech**, studying **Computer Science** with a focus in **Intelligence** and **Modeling & Simulation**. 
+- 👋 Hi, I’m Reetesh (Ree) - I am a first-year student at **Georgia Tech**, studying **Computer Science** with focuses in **Intelligence** and **Modeling & Simulation**. 
 - 👀 I’m interested in product/project management and its importance towards software development. 
 - 🌱 I’m currently spending time enhancing my skills in programming and developing a business acumen. 
 - 📫 Connect with me! - [**Email**](mailto:rsudhakar9@gatech.edu) **||** [**Facebook**](https://facebook.com/reetesh.sudhakar.3) **||** [**Instagram**](https://instagram.com/reeteshsudhakar/) **||** [**LinkedIn**](https://www.linkedin.com/in/reeteshsudhakar)
