@@ -1,7 +1,22 @@
-- 👋 Hi, I’m Reetesh (Ree) - I am a first-year student at **Georgia Tech**, studying **Computer Science** with focuses in **Intelligence** and **Modeling & Simulation**. 
-- 👀 I’m interested in product/project management and its importance towards software development life cycles and product development. 
-- 🌱 I’m currently spending time enhancing my programming skills in Java and SQL, while also developing a business acumen through the process! 
-- 📫 Connect with me! - [**Email**](mailto:rsudhakar9@gatech.edu) **||** [**Facebook**](https://facebook.com/reetesh.sudhakar.3) **||** [**Instagram**](https://instagram.com/reeteshsudhakar/) **||** [**LinkedIn**](https://www.linkedin.com/in/reeteshsudhakar)
+<h1 align="center">  Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Reetesh Sudhakar.</h1>
+<h3 align="center">
+  <a href="https://www.reeteshsudhakar.com">Website</a> •
+  <a href="https://www.linkedin.com/in/reeteshsudhakar/">LinkedIn</a> •
+  <a href="mailto:rsudhakar9@gatech.edu">Email</a>
+</h3>
+
+
+- I am a first-year student at [**Georgia Tech**](https://gatech.edu), studying **Computer Science** with focuses in **Artificial Intelligence** and **Modeling & Simulation**. 
+- I’m interested in product/project management and its importance towards software development life cycles and product development. 
+- I’m currently spending time enhancing my programming skills in **object-oriented programming**, **database management**, and **web development**, while also developing a business acumen through the process! 
+- Outside of academics, I'm into ultimate frisbee, debate, music, and Formula 1!
+
+<p align="center"> 
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=reeteshsudhakar&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
+</p>
+<p align="center">
+   <img src = "https://github-readme-stats.vercel.app/api?username=reeteshsudhakar">
+</p>
 
 <!---
 reeteshsudhakar/reeteshsudhakar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
