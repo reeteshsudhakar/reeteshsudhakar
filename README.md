@@ -1,4 +1,4 @@
-<h1 align="center">  Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Reetesh Sudhakar.</h1>
+<h1 align="center">  Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm <a href="https://reeteshsudhakar.com">Reetesh Sudhakar</a>.</h1>
 <h3 align="center">
   <a href="https://www.reeteshsudhakar.com">Website</a> •
   <a href="https://www.linkedin.com/in/reeteshsudhakar/">LinkedIn</a> •
