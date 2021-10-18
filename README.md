@@ -18,6 +18,9 @@
    <img src = "https://github-readme-stats.vercel.app/api?username=reeteshsudhakar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=What I'm Up To&hide=stars">
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/RDsVYcAdutXbi/giphy.gif">
+</p>
 <!---
 reeteshsudhakar/reeteshsudhakar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
