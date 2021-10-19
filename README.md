@@ -1,4 +1,4 @@
-<h1 align="center">  Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm <a href="https://reeteshsudhakar.com">Reetesh Sudhakar</a>.</h1>
+<h1 align="center">  Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I'm <a href="https://reeteshsudhakar.com">Reetesh Sudhakar</a>.</h1>
 <h3 align="center">
   <a href="https://www.reeteshsudhakar.com">Website</a> •
   <a href="https://www.linkedin.com/in/reeteshsudhakar/">LinkedIn</a> •
@@ -18,10 +18,8 @@
    <img src = "https://github-readme-stats.vercel.app/api?username=reeteshsudhakar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=What I'm Up To&hide=stars">
 </p>
 <p align="center">
-  <img src="images/introduction.gif">
+  <img src="images/introduction.gif" style="width:750px">
 </p>
-
-
 
 <!---
 reeteshsudhakar/reeteshsudhakar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
