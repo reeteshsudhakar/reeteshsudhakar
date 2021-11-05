@@ -6,7 +6,7 @@
 </h3>
 
 
-- I am a student at [**Georgia Tech**](https://gatech.edu), studying **Computer Science** with focuses in **Artificial Intelligence** and **Modeling & Simulation**. 
+- I am a student at [**Georgia Tech**](https://gatech.edu), studying **Computer Science** with focuses in **Artificial Intelligence** and **Information Internetworks**. 
 - I’m interested in product/project management and its importance towards software development life cycles and product development. 
 - I’m currently spending time enhancing my programming skills in **object-oriented programming**, **database management**, and **web development**, while also developing a business acumen through the process! 
 - Outside of academics, I'm into ultimate frisbee, debate, music, and Formula 1!
