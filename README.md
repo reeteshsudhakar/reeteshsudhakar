@@ -18,7 +18,7 @@
    <img src = "https://github-readme-stats.vercel.app/api?username=reeteshsudhakar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=What I'm Up To&hide=stars&count_private=true">
 </p>
 <p align="center">
-  <img src="images/introduction.gif" style="width:1000px">
+  <img src="images/introduction.gif" style="width:750px">
 </p>
 
 <!---
