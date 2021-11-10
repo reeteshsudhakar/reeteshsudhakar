@@ -12,7 +12,7 @@
 - Outside of academics, I'm into ultimate frisbee, debate, music, and Formula 1!
 
 <p align="center"> 
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=reeteshsudhakar&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28&count_private=true">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=reeteshsudhakar&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
 </p>
 <p align="center">
    <img src = "https://github-readme-stats.vercel.app/api?username=reeteshsudhakar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=What I'm Up To&hide=stars&count_private=true">
