@@ -24,18 +24,16 @@
   </video>
 </p>
 
-
 <!-- Extra Stuff to mess around with -->
-<!-- <p align="center">
-  <img src="images/introduction.gif" style="width:750px">
+<p align="center">
+  <img src="assets/introduction.gif" style="width:750px">
 </p>
- -->
 
 
-<!-- https://user-images.githubusercontent.com/86990519/141708091-8fa1cd7e-bc3e-4c47-a0b1-df35d53a9981.mov -->
 
 
 <!---
 reeteshsudhakar/reeteshsudhakar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+https://user-images.githubusercontent.com/86990519/141708091-8fa1cd7e-bc3e-4c47-a0b1-df35d53a9981.mov
 --->
