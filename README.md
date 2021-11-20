@@ -17,14 +17,22 @@
 <p align="center">
    <img src = "https://github-readme-stats.vercel.app/api?username=reeteshsudhakar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=What I'm Up To&hide=stars&count_private=true">
 </p>
+
+<p align="center"> 
+  <video autoplay loop muted controls> 
+    <source src="assets/reetesh-sudhakar.mov">
+  </video>
+</p>
+
+
+<!-- Extra Stuff to mess around with -->
 <!-- <p align="center">
   <img src="images/introduction.gif" style="width:750px">
 </p>
  -->
 
-https://user-images.githubusercontent.com/86990519/141708091-8fa1cd7e-bc3e-4c47-a0b1-df35d53a9981.mov
 
-
+<!-- https://user-images.githubusercontent.com/86990519/141708091-8fa1cd7e-bc3e-4c47-a0b1-df35d53a9981.mov -->
 
 
 <!---
