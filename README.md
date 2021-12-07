@@ -1,9 +1,5 @@
 <h1 align="center">  Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I'm <a href="https://reeteshsudhakar.com">Reetesh Sudhakar</a>.</h1>
-<h3 align="center">
-  <a href="https://www.reeteshsudhakar.com">Website</a> •
-  <a href="https://www.linkedin.com/in/reeteshsudhakar/">LinkedIn</a> •
-  <a href="mailto:rsudhakar9@gatech.edu">Email</a>
-</h3>
+<h2 align="center"> <a href="https://www.reeteshsudhakar.com">Website</a> • <a href="https://www.linkedin.com/in/reeteshsudhakar/">LinkedIn</a> • <a href="mailto:rsudhakar9@gatech.edu">Email</a></h2>
 
 
 - I am a student at [**Georgia Tech**](https://gatech.edu), studying **Computer Science** with focuses in **Artificial Intelligence** and **Information Internetworks**. 
