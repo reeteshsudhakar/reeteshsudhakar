@@ -9,16 +9,12 @@
 <details>
 <summary>My GitHub Stats</summary>
 <p align="center"> 
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=reeteshsudhakar&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=reeteshsudhakar&layout=compact&title_color=80a1c1&text_color=FFFFFF&icon_color=7fb3c2&bg_color=2e3440">
 </p>
 <p align="center">
-   <img src = "https://github-readme-stats.vercel.app/api?username=reeteshsudhakar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=What I'm Up To&hide=stars,contribs,issues&count_private=true">
+   <img src = "https://github-readme-stats.vercel.app/api?username=reeteshsudhakar&show_icons=true&theme=nord&include_all_commits=true&count_private=true&custom_title=What I'm Up To&hide=stars,contribs,issues&count_private=true">
 </p></details>
 
-<!-- 
- -->
- 
-<!-- Extra Stuff to mess around with -->
 <p align="center">
   <img src="assets/reetesh-sudhakar.gif" style="width:750px">
 </p>
