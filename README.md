@@ -9,14 +9,24 @@
 - I’m currently spending time enhancing my programming skills in **object-oriented programming**, **database management**, and **web development**, while also developing a business acumen through the process! 
 - Outside of academics, I'm into ultimate frisbee, debate, music, and Formula 1!
 
+<div class="column" align="center">
+  <div class="row">
+    <img src = "https://github.com/reeteshsudhakar/my-github-stats/blob/master/generated/overview.svg">
+    <img src="https://github.com/reeteshsudhakar/my-github-stats/blob/master/generated/languages.svg">
+  </div>
+</div>
+
+
 <details>
-  <summary><strong>Check out my GitHub Stats!</strong></summary>
+  <summary><strong>Check out some more of my GitHub Stats!</strong></summary>
 <p align="center"> 
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=reeteshsudhakar&layout=compact&title_color=80a1c1&text_color=FFFFFF&icon_color=7fb3c2&bg_color=2e3440">
 </p>
 <p align="center">
    <img src = "https://github-readme-stats.vercel.app/api?username=reeteshsudhakar&show_icons=true&theme=nord&include_all_commits=true&count_private=true&custom_title=What I'm Up To&hide=stars,contribs,issues&count_private=true">
-</p></details>
+</p>
+
+</details>
 
 <p align="center">
   <img src="assets/footer.png">
