@@ -19,6 +19,7 @@
 
 <details>
   <summary><strong>Check out some more of my GitHub Stats!</strong></summary>
+<br>
 <p align="center"> 
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=reeteshsudhakar&layout=compact&title_color=80a1c1&text_color=FFFFFF&icon_color=7fb3c2&bg_color=2e3440">
 </p>
