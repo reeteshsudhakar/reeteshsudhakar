@@ -1,13 +1,16 @@
-<h1 align="center" style="border: none !important;">  Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I'm <a href="https://reeteshsudhakar.com">Reetesh Sudhakar</a>.</h1>
-<h2 align="center"> <a href="https://www.reeteshsudhakar.com">Website</a> • <a href="https://www.linkedin.com/in/reeteshsudhakar/">LinkedIn</a> • <a href="mailto:rsudhakar9@gatech.edu">Email</a></h2>
+<p align="center">
+  <img src="assets/header.png">
+</p>
 
-- I am a student at [**Georgia Tech**](https://gatech.edu), studying **Computer Science** with focuses in **Artificial Intelligence** and **Information Internetworks**. 
+<h2 align="center"><a href="https://www.reeteshsudhakar.com">Website</a> • <a href="https://www.linkedin.com/in/reeteshsudhakar/">LinkedIn</a> • <a href="mailto:rsudhakar9@gatech.edu">Email</a></h2>
+
+- Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> I am a student at [**Georgia Tech**](https://gatech.edu), studying **Computer Science** with focuses in **Artificial Intelligence** and **Information Internetworks**. I am also a **Software Development Intern** at [**Siemens Software**](https://sw.siemens.com) for Spring 2022. 
 - I’m interested in product/project management and its importance towards software development life cycles and product development. 
 - I’m currently spending time enhancing my programming skills in **object-oriented programming**, **database management**, and **web development**, while also developing a business acumen through the process! 
 - Outside of academics, I'm into ultimate frisbee, debate, music, and Formula 1!
 
 <details>
-<summary>My GitHub Stats</summary>
+  <summary><strong>Check out my GitHub Stats!</strong></summary>
 <p align="center"> 
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=reeteshsudhakar&layout=compact&title_color=80a1c1&text_color=FFFFFF&icon_color=7fb3c2&bg_color=2e3440">
 </p>
@@ -16,11 +19,8 @@
 </p></details>
 
 <p align="center">
-  <img src="assets/reetesh-sudhakar.gif" style="width:750px">
+  <img src="assets/footer.png">
 </p>
-
-
-
 
 <!---
 reeteshsudhakar/reeteshsudhakar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
