@@ -12,7 +12,7 @@
 <div class="column" align="center">
   <div class="row">
     <img src = "https://github.com/reeteshsudhakar/my-github-stats/blob/master/generated/overview.svg">
-    <img src="https://github.com/reeteshsudhakar/my-github-stats/blob/master/generated/languages.svg">
+<!--     <img src="https://github.com/reeteshsudhakar/my-github-stats/blob/master/generated/languages.svg"> -->
   </div>
 </div>
 
