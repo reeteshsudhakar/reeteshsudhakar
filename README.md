@@ -19,6 +19,8 @@
   </div>
 </div>
 
+<br>
+
 <details>
   <summary><strong>Check out some more of my GitHub Stats!</strong></summary>
 <br>
