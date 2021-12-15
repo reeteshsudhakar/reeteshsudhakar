@@ -11,11 +11,13 @@
 
 <div class="column" align="center">
   <div class="row">
-    <img src = "https://github.com/reeteshsudhakar/my-github-stats/blob/master/generated/overview.svg">
+    <img src="https://github.com/reeteshsudhakar/my-github-stats/blob/master/generated/overview.svg">
     <img src="https://github.com/reeteshsudhakar/my-github-stats/blob/master/generated/languages.svg">
   </div>
+  <div class="row">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes">
+  </div>
 </div>
-
 
 <details>
   <summary><strong>Check out some more of my GitHub Stats!</strong></summary>
