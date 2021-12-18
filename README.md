@@ -2,12 +2,22 @@
   <img src="assets/header.png">
 </p>
 
-<h2 align="center"><a href="https://www.reeteshsudhakar.com">Website</a> • <a href="https://www.linkedin.com/in/reeteshsudhakar/">LinkedIn</a> • <a href="mailto:rsudhakar9@gatech.edu">Email</a></h2>
+<p align="center">
+	<a href="https://linkedin.com/in/reeteshsudhakar"><img style="border-radius: 6px; overflow: hidden;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
+	</a>
+	<a href="https://instagram.com/reeteshsudhakar"><img style="border-radius: 6px;" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+	<a href="https://reeteshsudhakar.com/"><img style="border-radius: 6px;" src="https://img.shields.io/website?down_color=Red&down_message=Offline&logo=vercel&style=for-the-badge&up_color=Green&up_message=Online&url=https%3A%2F%2Freeteshsudhakar.com" /></a>
+	<a href="mailto:rsudhakar9@gatech.edu"><img style="border-radius: 6px;" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-- Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> I am a student at [**Georgia Tech**](https://gatech.edu), studying **Computer Science** with focuses in **Artificial Intelligence** and **Information Internetworks**. I am also a **Software Development Intern** at [**Siemens Software**](https://sw.siemens.com) for Spring 2022. 
+<h3 align="center"> <a><strong> Computer Science @ <a href="https://gatech.edu">Georgia Tech</a> || Aspiring Product Manager || Passionate Developer || Formula 1 Enthusiast || Research and Advocacy</strong></a> </h3>
+
+---
+
+- Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> My name is Reetesh **(Ree)** Sudhakar, and I am a student at [**Georgia Tech**](https://gatech.edu), studying **Computer Science** with focuses in **Artificial Intelligence** and **Information Internetworks**. I am also a **Software Development Intern** at [**Siemens Software**](https://sw.siemens.com) for Spring 2022. 
 - I’m interested in product/project management and its importance towards software development life cycles and product development. 
 - I’m currently spending time enhancing my programming skills in **object-oriented programming**, **database management**, and **web development**, while also developing a business acumen through the process! 
-- Outside of academics, I'm into ultimate frisbee, debate, music, and Formula 1!
+- Outside of academics, I'm into ultimate frisbee, debate, music (specifically, [a cappella](https://www.youtube.com/watch?v=un1HidgVOUk) and choral music), tennis, and Formula 1!
 
 <div class="column" align="center">
   <div class="row">
@@ -22,7 +32,7 @@
 <br>
 
 <details>
-  <summary><strong>Check out some more of my GitHub Stats!</strong></summary>
+  <summary align="center"><strong>Check out some more of my GitHub Stats!</strong></summary>
 <br>
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reeteshsudhakar&layout=compact&title_color=80a1c1&text_color=FFFFFF&icon_color=7fb3c2&bg_color=2e3440">
