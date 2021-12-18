@@ -33,6 +33,8 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=reeteshsudhakar&theme=nord&margin-w=10&margin-h=10&row=1">
 </p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </details>
 
 <br>
@@ -40,86 +42,6 @@
 <p align="center">
   <img src="assets/footer.png">
 </p>
-
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-46-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-347%20Thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 277 Contributions in the Year 2021
- > 
-> 📦 103.9 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 12 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    59 commits     █████░░░░░░░░░░░░░░░░░░░░   22.61% 
-🌆 Daytime    120 commits    ███████████░░░░░░░░░░░░░░   45.98% 
-🌃 Evening    82 commits     ███████░░░░░░░░░░░░░░░░░░   31.42% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       56 commits     █████░░░░░░░░░░░░░░░░░░░░   21.46% 
-Tuesday      23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.81% 
-Wednesday    59 commits     █████░░░░░░░░░░░░░░░░░░░░   22.61% 
-Thursday     29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Friday       37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.18% 
-Saturday     31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.88% 
-Sunday       26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.96%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Los_Angeles
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   6 repos             ████████████░░░░░░░░░░░░░   50.0% 
-Jupyter Notebook         2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/reeteshsudhakar/reeteshsudhakar/main/charts/bar_graph.png) 
-
-
- Last Updated on 18/12/2021
-<!--END_SECTION:waka-->
-
 
 <!---
 reeteshsudhakar/reeteshsudhakar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
