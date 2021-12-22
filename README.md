@@ -37,12 +37,12 @@
 <details>
   <summary align="center"><strong>Check out some more of my GitHub Stats!</strong></summary>
 <br>
-<p align="center"> 
+<!-- <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reeteshsudhakar&layout=compact&title_color=80a1c1&text_color=FFFFFF&icon_color=7fb3c2&bg_color=2e3440">
 </p>
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=reeteshsudhakar&show_icons=true&theme=nord&include_all_commits=true&count_private=true&custom_title=What I'm Up To&count_private=true">
-</p>
+</p> -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=reeteshsudhakar&theme=nord&margin-w=10&margin-h=10&row=1">
 </p>
