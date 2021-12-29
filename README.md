@@ -45,15 +45,13 @@
 </p>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2022%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-333%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 336 Contributions in the Year 2021
+> 🏆 341 Contributions in the Year 2021
  > 
 > 📦 104.3 kB Used in GitHub's Storage 
  > 
@@ -92,18 +90,15 @@ Sunday       29 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-Java                     58 mins             █████████████████████░░░░   87.2% 
-HTML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.66% 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
+HTML                     6 mins              ███████████████████░░░░░░   78.05% 
+JavaScript               1 min               █████░░░░░░░░░░░░░░░░░░░░   21.44% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52%
 
 🔥 Editors: 
-IntelliJ                 58 mins             ██████████████████████░░░   87.6% 
-VS Code                  8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.4%
+VS Code                  8 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      1 hr 7 mins         █████████████████████████   100.0%
+Mac                      8 mins              █████████████████████████   100.0%
 
 ```
 
@@ -124,7 +119,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/reeteshsudhakar/reeteshsudhakar/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/12/2021
+ Last Updated on 29/12/2021
 <!--END_SECTION:waka-->
 </details>
 
