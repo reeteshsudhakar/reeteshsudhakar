@@ -45,43 +45,43 @@
 </p>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2016%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-333%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-330%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 346 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
-> 📦 104.3 kB Used in GitHub's Storage 
+> 📦 111.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 11 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    63 commits     █████░░░░░░░░░░░░░░░░░░░░   19.63% 
-🌆 Daytime    127 commits    ██████████░░░░░░░░░░░░░░░   39.56% 
-🌃 Evening    131 commits    ██████████░░░░░░░░░░░░░░░   40.81% 
+🌞 Morning    63 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.03% 
+🌆 Daytime    130 commits    █████████░░░░░░░░░░░░░░░░   39.27% 
+🌃 Evening    138 commits    ██████████░░░░░░░░░░░░░░░   41.69% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       70 commits     █████░░░░░░░░░░░░░░░░░░░░   21.81% 
-Tuesday      32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.97% 
-Wednesday    67 commits     █████░░░░░░░░░░░░░░░░░░░░   20.87% 
-Thursday     39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.15% 
-Friday       48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.95% 
-Saturday     36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.21% 
-Sunday       29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.03%
+Monday       70 commits     █████░░░░░░░░░░░░░░░░░░░░   21.15% 
+Tuesday      32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.67% 
+Wednesday    67 commits     █████░░░░░░░░░░░░░░░░░░░░   20.24% 
+Thursday     39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.78% 
+Friday       58 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.52% 
+Saturday     36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.88% 
+Sunday       29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.76%
 
 ```
 
@@ -120,7 +120,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/reeteshsudhakar/reeteshsudhakar/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
 </details>
 
