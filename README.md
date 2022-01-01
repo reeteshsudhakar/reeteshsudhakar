@@ -129,6 +129,12 @@ HTML                     1 repo              ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 </details>
 
+<details align="center">
+	<summary>
+		<strong>Scan me!</strong>
+	</summary>
+</details>
+
 <br>
 
 <p align="center">
