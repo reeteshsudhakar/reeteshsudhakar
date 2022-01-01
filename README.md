@@ -66,22 +66,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    63 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.92% 
-🌆 Daytime    132 commits    ██████████░░░░░░░░░░░░░░░   39.64% 
-🌃 Evening    138 commits    ██████████░░░░░░░░░░░░░░░   41.44% 
+🌞 Morning    63 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.98% 
+🌆 Daytime    131 commits    █████████░░░░░░░░░░░░░░░░   39.46% 
+🌃 Evening    138 commits    ██████████░░░░░░░░░░░░░░░   41.57% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       70 commits     █████░░░░░░░░░░░░░░░░░░░░   21.02% 
-Tuesday      32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.61% 
-Wednesday    67 commits     █████░░░░░░░░░░░░░░░░░░░░   20.12% 
-Thursday     39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.71% 
-Friday       58 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.42% 
-Saturday     38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.41% 
-Sunday       29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.71%
+Monday       70 commits     █████░░░░░░░░░░░░░░░░░░░░   21.08% 
+Tuesday      32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.64% 
+Wednesday    67 commits     █████░░░░░░░░░░░░░░░░░░░░   20.18% 
+Thursday     39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.75% 
+Friday       58 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.47% 
+Saturday     37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.14% 
+Sunday       29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.73%
 
 ```
 
@@ -133,12 +133,19 @@ HTML                     1 repo              ██░░░░░░░░░�
 	<summary>
 		<strong>Scan me!</strong>
 	</summary>
+	<br>
+	<div class="row" align="center">
+		<img width="200" align="center" style="padding: 20px" src="https://github.com/reeteshsudhakar/reeteshsudhakar/blob/main/assets/scannables/facebook_code.png">
+		<img width="200" align="center" style="padding: 20px" src="https://github.com/reeteshsudhakar/reeteshsudhakar/blob/main/assets/scannables/snapcode.gif">
+		<img width="200" align="center" style="padding: 20px" src="https://github.com/reeteshsudhakar/reeteshsudhakar/blob/main/assets/scannables/instagram_code.png">
+		<img width="200" align="center" style="padding: 20px" src="https://github.com/reeteshsudhakar/reeteshsudhakar/blob/main/assets/scannables/website_code.png">
+	</div>
 </details>
 
 <br>
 
 <p align="center">
-  <img src="assets/footer.png">
+	<img src="assets/footer.png">
 </p>
 
 <!---
