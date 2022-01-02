@@ -144,7 +144,6 @@ HTML                     1 repo              ██░░░░░░░░░�
 	</div>
 </details>
 
-<br>
 
 <p align="center">
 	<img src="assets/footer.png">
