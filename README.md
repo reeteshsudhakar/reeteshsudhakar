@@ -14,7 +14,7 @@
 
 ---
 
-- Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> My name is Reetesh **(Ree)** Sudhakar, and I am a student at [**Georgia Tech**](https://gatech.edu), studying **Computer Science** with focuses in **Artificial Intelligence** and **Information Internetworks**. I am also a **Software Development Intern** at [**Siemens Software**](https://sw.siemens.com) for Spring 2022. 
+- Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> My name is <a href="https://reeteshsudhakar.com"><strong>Reetesh Sudhakar</strong></a>, and I am a student at [**Georgia Tech**](https://gatech.edu), studying **Computer Science** with focuses in **Artificial Intelligence** and **Information Internetworks**. I am currently a **Software Development Intern** at [**Siemens Software**](https://sw.siemens.com) for Spring 2022. 
 - I’m interested in product/project management and its importance towards software development life cycles and product development. 
 - I’m currently spending time enhancing my programming skills in **Java (algorithms, data structures, object-oriented programming principles)**, **database management (SQL)**, and **web development (HTML/CSS)**, while also developing a business acumen through the process! 
 - Outside of academics, I'm into ultimate frisbee, debate, music - check out what I'm listening to right now with the widget below - (specifically, [a cappella](https://www.youtube.com/watch?v=un1HidgVOUk) and choral music), tennis, and Formula 1!
@@ -28,11 +28,8 @@
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=7gv2grx6al950orr9jkqpy4yf&cover_image=true&theme=novatorem&bar_color=2e548a&bar_color_cover=false">
   </div>	
   <div class="row">
-    <img src="https://github.com/reeteshsudhakar/my-github-stats/blob/master/generated/overview.svg">
-    <img src="https://github.com/reeteshsudhakar/my-github-stats/blob/master/generated/languages.svg">
-  </div>
-  <div class="row">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://github.com/reeteshsudhakar/github-stats-transparent/blob/output/generated/languages.svg">
+    <img src="https://github.com/reeteshsudhakar/github-stats-transparent/blob/output/generated/overview.svg">
   </div>
 </div>
 
