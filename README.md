@@ -14,7 +14,7 @@
 
 ---
 
-- Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> My name is <a href="https://reeteshsudhakar.com"><strong>Reetesh Sudhakar</strong></a>, and I am a student at [**Georgia Tech**](https://gatech.edu), studying **Computer Science** with focuses in **Artificial Intelligence** and **Information Internetworks**. I am currently a **Software Development Intern** at [**Siemens Software**](https://sw.siemens.com) for Spring 2022. 
+- Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> My name is <a href="https://reeteshsudhakar.com"><strong>Reetesh Sudhakar</strong></a>, and I am a student at [**Georgia Tech**](https://gatech.edu), studying **Computer Science** with focuses in **Artificial Intelligence** and **Modeling & Simulation**. I am currently a **Software Development Intern** at [**Siemens Software**](https://sw.siemens.com) for Spring 2022. 
 - I’m interested in product/project management and its importance towards software development life cycles and product development. 
 - I’m currently spending time enhancing my programming skills in **Java (algorithms, data structures, object-oriented programming principles)**, **database management (SQL)**, and **web development (HTML/CSS)**, while also developing a business acumen through the process! 
 - Outside of academics, I'm into ultimate frisbee, debate, music - check out what I'm listening to right now with the widget below - (specifically, [a cappella](https://www.youtube.com/watch?v=un1HidgVOUk) and choral music), tennis, and Formula 1!
