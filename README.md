@@ -46,6 +46,8 @@
 </p>
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2017%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-370%20Thousand%20lines%20of%20code-blue)
@@ -118,7 +120,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/reeteshsudhakar/reeteshsudhakar/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/02/2022 20:10:57 UTC
+ Last Updated on 10/02/2022 20:16:30 UTC
 <!--END_SECTION:waka-->
 </details>
 
