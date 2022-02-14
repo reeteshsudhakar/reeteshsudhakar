@@ -46,6 +46,8 @@
 </p>
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2044%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-368%20Thousand%20lines%20of%20code-blue)
@@ -91,14 +93,14 @@ Sunday       76 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Java                     5 hrs 54 mins       █████████████████████████   99.95% 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+Java                     7 hrs 13 mins       █████████████████████████   99.96% 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 🔥 Editors: 
-IntelliJ                 5 hrs 55 mins       █████████████████████████   100.0%
+IntelliJ                 7 hrs 13 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      5 hrs 55 mins       █████████████████████████   100.0%
+Mac                      7 hrs 13 mins       █████████████████████████   100.0%
 
 ```
 
@@ -119,7 +121,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/reeteshsudhakar/reeteshsudhakar/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/02/2022 20:09:31 UTC
+ Last Updated on 14/02/2022 20:13:38 UTC
 <!--END_SECTION:waka-->
 </details>
 
