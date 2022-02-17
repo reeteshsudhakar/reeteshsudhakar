@@ -148,7 +148,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 	</div>
 	<br>
 	<div class="row" align="center">
-		<img src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white">
 		<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 		<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
 		<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
