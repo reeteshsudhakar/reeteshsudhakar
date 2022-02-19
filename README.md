@@ -46,8 +46,6 @@
 </p>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2049%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-364%20Thousand%20lines%20of%20code-blue)
@@ -56,7 +54,7 @@
 
 > 🏆 286 Contributions in the Year 2022
  > 
-> 📦 210.6 kB Used in GitHub's Storage 
+> 📦 210.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -121,7 +119,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/reeteshsudhakar/reeteshsudhakar/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/02/2022 20:17:48 UTC
+ Last Updated on 19/02/2022 20:11:34 UTC
 <!--END_SECTION:waka-->
 </details>
 
