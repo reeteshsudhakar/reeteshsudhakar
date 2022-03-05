@@ -46,15 +46,13 @@
 </p>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%203%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-356%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-343%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 406 Contributions in the Year 2022
+> 🏆 407 Contributions in the Year 2022
  > 
 > 📦 229.6 kB Used in GitHub's Storage 
  > 
@@ -79,9 +77,9 @@
 Monday       111 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.05% 
 Tuesday      83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.75% 
 Wednesday    131 commits    █████░░░░░░░░░░░░░░░░░░░░   20.12% 
-Thursday     98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.05% 
+Thursday     97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.9% 
 Friday       72 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.06% 
-Saturday     81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.44% 
+Saturday     82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.6% 
 Sunday       75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.52%
 
 ```
@@ -113,7 +111,7 @@ Mac                      29 hrs 53 mins      ███████████�
 
 ```text
 Python                   6 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
-Java                     5 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+Java                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   26.67% 
 Jupyter Notebook         2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
 CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
 HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
@@ -126,7 +124,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/reeteshsudhakar/reeteshsudhakar/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/03/2022 20:19:44 UTC
+ Last Updated on 05/03/2022 20:10:32 UTC
 <!--END_SECTION:waka-->
 </details>
 
