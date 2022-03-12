@@ -24,9 +24,9 @@
 <h3 align="center"> <a><strong>What I'm Up To <img width="20px" src="https://c.tenor.com/JHxQC27Iw14AAAAi/eyes-emoji.gif"></strong></a> </h3>
 
 <div class="column" align="center">
-  <div class="row">
+<!--   <div class="row">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=7gv2grx6al950orr9jkqpy4yf&cover_image=true&theme=novatorem&bar_color=2e548a&bar_color_cover=false">
-  </div>	
+  </div>	 -->
   <div class="row">
     <img src="https://github.com/reeteshsudhakar/github-stats-transparent/blob/output/generated/languages.svg">
     <img src="https://github.com/reeteshsudhakar/github-stats-transparent/blob/output/generated/overview.svg">
