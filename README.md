@@ -192,8 +192,8 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 <details align="center"> 
 	<summary><strong>:zap: My latest GitHub activity</strong></summary>
-	<!---START_SECTION:activity--->
-	<!---END_SECTION:activity--->
+<!---START_SECTION:activity--->
+<!---END_SECTION:activity--->
 </details>
 
 <p align="center">
