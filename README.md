@@ -33,7 +33,11 @@
   </div>
 </div>
 
-<br>
+<h3 align="center"> <a><strong>:zap: My Latest GitHub Activity</strong></a></h3>
+<!---START_SECTION:activity--->
+<!---END_SECTION:activity--->
+
+---
 
 <details>
   <summary align="center"><strong>:bar_chart: Check out some more of my GitHub Stats!</strong></summary>
@@ -189,14 +193,8 @@ HTML                     1 repo              █░░░░░░░░░░�
 	</div>
 </details>
 
-<details align="center"> 
-	<summary><strong>:zap: My latest GitHub activity</strong></summary>
-<!---START_SECTION:activity--->
-<!---END_SECTION:activity--->
-</details>
-
 <p align="center">
-	<img src="assets/footer.png">
+  <img src="assets/footer.png">
 </p>
 
 <!---
