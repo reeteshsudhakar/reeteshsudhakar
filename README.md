@@ -10,7 +10,7 @@
 	<a href="mailto:rsudhakar9@gatech.edu"><img style="border-radius: 6px;" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h3 align="center"> <a><strong> Computer Science @ <a href="https://gatech.edu">Georgia Tech</a> || Aspiring Product Manager || Passionate Developer || Formula 1 Enthusiast || Research and Advocacy</strong></a> </h3>
+<h3 align="center"> <a><strong> Computer Science @ <a href="https://gatech.edu">Georgia Tech</a> || Aspiring Product Manager || Passionate Software Developer || Formula 1 Enthusiast || Researcher and Advocate</strong></a> </h3>
 
 ---
 
@@ -36,7 +36,7 @@
 <br>
 
 <details>
-  <summary align="center"><strong>Check out some more of my GitHub Stats!</strong></summary>
+  <summary align="center"><strong>:bar_chart: Check out some more of my GitHub Stats!</strong></summary>
 <br>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=reeteshsudhakar&theme=nord&margin-w=10&margin-h=10&row=1">
@@ -133,7 +133,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 <details align="center">
 	<summary>
-		<strong>My favorite tools, technologies, and more! </strong>
+		<strong>:computer: My favorite tools, technologies, and more! </strong>
 	</summary>
 	<br>
 	<div class="row" align="center">
@@ -179,7 +179,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 </details>
 <details align="center">
 	<summary>
-		<strong>Scan me!</strong>
+		<strong>:iphone: Scan me!</strong>
 	</summary>
 	<br>
 	<div class="row" align="center">
@@ -190,6 +190,11 @@ HTML                     1 repo              █░░░░░░░░░░�
 	</div>
 </details>
 
+<details align="center"> 
+	<summary><strong>:zap: My latest GitHub activity</strong></summary>
+	<!---START_SECTION:activity--->
+	<!---END_SECTION:activity--->
+</details>
 
 <p align="center">
 	<img src="assets/footer.png">
