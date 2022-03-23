@@ -34,8 +34,8 @@
 </div>
 
 <h3 align="center"> <a><strong>:zap: My Latest GitHub Activity</strong></a></h3>
-<!---START_SECTION:activity--->
-<!---END_SECTION:activity--->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
