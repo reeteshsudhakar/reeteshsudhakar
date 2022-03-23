@@ -33,11 +33,7 @@
   </div>
 </div>
 
-<h3 align="center"> <a><strong>:zap: My Latest GitHub Activity</strong></a></h3>
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
+</br>
 
 <details>
   <summary align="center"><strong>:bar_chart: Check out some more of my GitHub Stats!</strong></summary>
