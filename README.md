@@ -46,17 +46,17 @@
 </p>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-199%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-199%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-352%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-350%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 597 Contributions in the Year 2022
+> 🏆 600 Contributions in the Year 2022
  > 
-> 📦 201.9 kB Used in GitHub's Storage 
+> 📦 201.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,21 +67,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    49 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.32% 
-🌆 Daytime    240 commits    █████████░░░░░░░░░░░░░░░░   35.87% 
-🌃 Evening    295 commits    ███████████░░░░░░░░░░░░░░   44.1% 
+🌞 Morning    48 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.17% 
+🌆 Daytime    242 commits    █████████░░░░░░░░░░░░░░░░   36.17% 
+🌃 Evening    294 commits    ███████████░░░░░░░░░░░░░░   43.95% 
 🌙 Night      85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.71%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       107 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.99% 
+Monday       106 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.84% 
 Tuesday      101 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.1% 
-Wednesday    122 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.24% 
+Wednesday    121 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.09% 
 Thursday     99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.8% 
 Friday       90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.45% 
-Saturday     83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.41% 
+Saturday     85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.71% 
 Sunday       67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.01%
 
 ```
@@ -126,7 +126,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/reeteshsudhakar/reeteshsudhakar/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/04/2022 20:22:29 UTC
+ Last Updated on 23/04/2022 20:22:09 UTC
 <!--END_SECTION:waka-->
 </details>
 
