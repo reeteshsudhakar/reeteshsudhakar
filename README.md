@@ -46,7 +46,7 @@
 </p>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-202%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -56,7 +56,7 @@
 
 > 🏆 656 Contributions in the Year 2022
  > 
-> 📦 223.0 kB Used in GitHub's Storage 
+> 📦 222.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -93,15 +93,13 @@ Sunday       66 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Java                     17 mins             ██████████████████████░░░   91.23% 
-HTML                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   8.77%
+HTML                     1 min               █████████████████████████   100.0%
 
 🔥 Editors: 
-IntelliJ                 17 mins             ██████████████████████░░░   91.23% 
-VS Code                  1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   8.77%
+VS Code                  1 min               █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      19 mins             █████████████████████████   100.0%
+Mac                      1 min               █████████████████████████   100.0%
 
 ```
 
@@ -122,7 +120,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/reeteshsudhakar/reeteshsudhakar/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/05/2022 20:19:13 UTC
+ Last Updated on 07/05/2022 20:13:57 UTC
 <!--END_SECTION:waka-->
 </details>
 
