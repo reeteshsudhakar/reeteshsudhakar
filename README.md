@@ -46,9 +46,9 @@
 </p>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-246%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-231%20Thousand%20lines%20of%20code-blue)
 
@@ -93,18 +93,18 @@ Sunday       69 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Java                     14 hrs 42 mins      ████████████████░░░░░░░░░   65.83% 
-Python                   4 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   20.38% 
-Text                     3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.78% 
+Java                     15 hrs              ████████████████░░░░░░░░░   65.65% 
+Python                   4 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.92% 
+Text                     3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.43% 
 GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
 HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-IntelliJ                 17 hrs 47 mins      ████████████████████░░░░░   79.62% 
-VS Code                  4 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   20.38%
+IntelliJ                 18 hrs 18 mins      ████████████████████░░░░░   80.08% 
+VS Code                  4 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.92%
 
 💻 Operating System: 
-Mac                      22 hrs 20 mins      █████████████████████████   100.0%
+Mac                      22 hrs 51 mins      █████████████████████████   100.0%
 
 ```
 
@@ -125,7 +125,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/reeteshsudhakar/reeteshsudhakar/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/06/2022 20:21:41 UTC
+ Last Updated on 13/06/2022 20:12:52 UTC
 <!--END_SECTION:waka-->
 </details>
 
