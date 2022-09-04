@@ -46,7 +46,7 @@
 </p>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-407%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -54,7 +54,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,131 Contributions in the Year 2022
+> 🏆 1,132 Contributions in the Year 2022
  > 
 > 📦 432.4 kB Used in GitHub's Storage 
  > 
@@ -64,45 +64,6 @@
  > 
 > 🔑 9 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    92 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.91% 
-🌆 Daytime    315 commits    █████████░░░░░░░░░░░░░░░░   37.37% 
-🌃 Evening    308 commits    █████████░░░░░░░░░░░░░░░░   36.54% 
-🌙 Night      128 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.18%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       137 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.25% 
-Tuesday      126 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.95% 
-Wednesday    150 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.79% 
-Thursday     114 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.52% 
-Friday       131 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.54% 
-Saturday     97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.51% 
-Sunday       88 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.44%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -120,7 +81,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/reeteshsudhakar/reeteshsudhakar/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 20:19:45 UTC
+ Last Updated on 04/09/2022 20:12:55 UTC
 <!--END_SECTION:waka-->
 </details>
 
