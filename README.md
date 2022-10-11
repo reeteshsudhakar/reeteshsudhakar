@@ -46,7 +46,7 @@
 </p>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -121,7 +121,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/reeteshsudhakar/reeteshsudhakar/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/10/2022 20:15:50 UTC
+ Last Updated on 11/10/2022 20:21:09 UTC
 <!--END_SECTION:waka-->
 </details>
 
