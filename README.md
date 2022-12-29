@@ -10,13 +10,13 @@
 	<a href="mailto:rsudhakar9@gatech.edu"><img style="border-radius: 6px;" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h3 align="center"> <a><strong> Computer Science @ <a href="https://gatech.edu">Georgia Tech</a> || Aspiring Product Manager || Passionate Software Developer || Formula 1 Enthusiast || Researcher and Advocate</strong></a> </h3>
+<h3 align="center"> <a><strong> Computer Science @ <a href="https://gatech.edu">Georgia Tech</a> || Passionate Software Developer || Formula 1 Enthusiast || Researcher and Advocate</strong></a> </h3>
 
 ---
 
-- Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px"> My name is <a href="https://reeteshsudhakar.com"><strong>Reetesh Sudhakar</strong></a>, and I am a student at [**Georgia Tech**](https://gatech.edu), studying **Computer Science** with focuses in **Artificial Intelligence** and **Modeling & Simulation**. I am currently a **Software Development Intern** at [**Siemens Software**](https://sw.siemens.com) for Spring 2022. I'm also currently an undergraduate researcher at Georgia Tech as a part of the [**VIP Program**](https://www.vip.gatech.edu/teams/vwa) (Vertically Integrated Projects). 
+- Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px"> My name is <a href="https://reeteshsudhakar.com"><strong>Reetesh Sudhakar</strong></a>, and I am a student at [**Georgia Tech**](https://gatech.edu), studying **Computer Science** with specializations in **Artificial Intelligence** and **Modeling & Simulation**. This summer, I'll be  a **Software Engineer Intern** at [**Robinhood**](https://robinhood.com/us/en/). Previously, I was a **Software Development Intern** at [**Siemens**]([https://sw.siemens.com](https://www.sw.siemens.com/en-US/)). I'm also currently an undergraduate researcher at Georgia Tech as a part of the [**VIP Program**](https://www.vip.gatech.edu/teams/vwa) (Vertically Integrated Projects). 
 - I’m interested in product/project management and its importance towards software development life cycles and product development. 
-- I’m currently spending time enhancing my programming skills in **Java (algorithms, data structures, object-oriented programming principles)**, **principles of computer architecture and low-level programming**, and **web development (HTML/CSS)**, while also developing a business acumen through the process! 
+- I’m currently spending time enhancing my programming skills in **Golang**, **principles of computer architecture and low-level programming**, and **web development (HTML/CSS)**, while also developing a business acumen through the process! 
 - Outside of academics, I'm into ultimate frisbee, debate, music - check out what I'm listening to right now with the widget below - (specifically, [a cappella](https://www.youtube.com/watch?v=un1HidgVOUk) and choral music), tennis, and Formula 1!
 
 --- 
