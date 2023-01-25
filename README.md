@@ -46,7 +46,7 @@
 </p>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-452%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -93,13 +93,13 @@ Sunday       102 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   10 hrs 3 mins       █████████████████████████   100.0%
+Python                   9 hrs 13 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  10 hrs 3 mins       █████████████████████████   100.0%
+VS Code                  9 hrs 13 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      10 hrs 3 mins       █████████████████████████   100.0%
+Mac                      9 hrs 13 mins       █████████████████████████   100.0%
 
 ```
 
@@ -120,7 +120,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/reeteshsudhakar/reeteshsudhakar/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/01/2023 20:19:39 UTC
+ Last Updated on 25/01/2023 20:11:36 UTC
 <!--END_SECTION:waka-->
 </details>
 
