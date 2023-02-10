@@ -46,7 +46,7 @@
 </p>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-462%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-465%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -93,14 +93,15 @@ Sunday         101 commits       ███░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   4 hrs 29 mins       █████████████████████████   99.84 % 
-TeX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Python                   5 hrs 54 mins       █████████████████████████   99.95 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 30 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 54 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 30 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 54 mins       █████████████████████████   100.00 % 
 
 ```
 
@@ -121,7 +122,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/reeteshsudhakar/reeteshsudhakar/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/02/2023 20:16:58 UTC
+ Last Updated on 10/02/2023 20:12:16 UTC
 <!--END_SECTION:waka-->
 </details>
 
