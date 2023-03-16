@@ -46,7 +46,7 @@
 </p>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-482%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-489%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -91,13 +91,16 @@ Sunday                   224 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   2 hrs 7 mins        █████████████████████████   100.00 % 
+Python                   7 hrs 28 mins       ███████████████████████░░   92.19 % 
+Jupyter                  37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 7 mins        █████████████████████████   100.00 % 
+PyCharm                  5 hrs 13 mins       ████████████████░░░░░░░░░   64.50 % 
+VS Code                  2 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   35.50 % 
 
 💻 Operating System: 
-Mac                      2 hrs 7 mins        █████████████████████████   100.00 % 
+Mac                      8 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -117,7 +120,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/reeteshsudhakar/reeteshsudhakar/main/assets/bar_graph.png)
 
 
- Last Updated on 15/03/2023 20:59:50 UTC
+ Last Updated on 16/03/2023 20:08:00 UTC
 <!--END_SECTION:waka-->
 </details>
 
