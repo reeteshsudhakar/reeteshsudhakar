@@ -46,9 +46,9 @@
 </p>
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-491%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-490%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.4%20million%20lines%20of%20code-blue)
 
@@ -91,16 +91,17 @@ Sunday                   224 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   9 hrs 42 mins       ███████████████████████░░   91.14 % 
-Jupyter                  56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Python                   9 hrs 42 mins       ████████████████████░░░░░   81.92 % 
+C                        1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Jupyter                  56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-PyCharm                  7 hrs 44 mins       ██████████████████░░░░░░░   72.56 % 
-VS Code                  2 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+PyCharm                  7 hrs 44 mins       ████████████████░░░░░░░░░   65.22 % 
+VS Code                  4 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   34.78 % 
 
 💻 Operating System: 
-Mac                      10 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -120,7 +121,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/reeteshsudhakar/reeteshsudhakar/main/assets/bar_graph.png)
 
 
- Last Updated on 17/03/2023 21:01:53 UTC
+ Last Updated on 18/03/2023 20:07:08 UTC
 <!--END_SECTION:waka-->
 </details>
 
