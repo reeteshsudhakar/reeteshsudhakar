@@ -48,7 +48,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-500%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.4%20million%20lines%20of%20code-blue)
 
@@ -91,16 +91,16 @@ Sunday                   224 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   6 hrs 45 mins       █████████████████████████   98.15 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Python                   5 hrs 5 mins        ████████████████████████░   97.56 % 
+Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 52 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 12 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 52 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -120,7 +120,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/reeteshsudhakar/reeteshsudhakar/main/assets/bar_graph.png)
 
 
- Last Updated on 09/04/2023 03:56:17 UTC
+ Last Updated on 09/04/2023 20:06:25 UTC
 <!--END_SECTION:waka-->
 </details>
 
