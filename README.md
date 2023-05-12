@@ -91,13 +91,13 @@ Sunday                   224 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -117,7 +117,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/reeteshsudhakar/reeteshsudhakar/main/assets/bar_graph.png)
 
 
- Last Updated on 12/05/2023 04:00:58 UTC
+ Last Updated on 12/05/2023 04:01:55 UTC
 <!--END_SECTION:waka-->
 </details>
 
