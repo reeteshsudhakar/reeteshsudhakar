@@ -21,20 +21,6 @@
 
 --- 
 
-<h3 align="center"> <a><strong>What I'm Up To <img width="20px" height="20px" src="https://c.tenor.com/JHxQC27Iw14AAAAi/eyes-emoji.gif"></strong></a> </h3>
-
-<div class="column" align="center">
-<!--   <div class="row">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=7gv2grx6al950orr9jkqpy4yf&cover_image=true&theme=novatorem&bar_color=2e548a&bar_color_cover=false">
-  </div>	 -->
-  <div class="row">
-    <img src="https://github.com/reeteshsudhakar/github-stats-transparent/blob/output/generated/languages.svg">
-    <img src="https://github.com/reeteshsudhakar/github-stats-transparent/blob/output/generated/overview.svg">
-  </div>
-</div>
-
-</br>
-
 <details>
   <summary align="center"><strong>:bar_chart: Check out some more of my GitHub Stats!</strong></summary>
 <br>
@@ -44,81 +30,6 @@
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=reeteshsudhakar&theme=nord&date_format=M%20j%5B%2C%20Y%5D">
 </p>
-  
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-505%20hrs%2022%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.4%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 1.1 MB Used in GitHub's Storage 
- > 
-> 🏆 21 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 16 Public Repositories 
- > 
-> 🔑 11 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                201 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-🌆 Daytime                770 commits         █████████░░░░░░░░░░░░░░░░   37.54 % 
-🌃 Evening                771 commits         █████████░░░░░░░░░░░░░░░░   37.59 % 
-🌙 Night                  309 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   321 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Tuesday                  279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Wednesday                411 commits         █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-Thursday                 274 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Friday                   304 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-Saturday                 238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Sunday                   224 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-Python                   4 mins              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   9 repos             █████████░░░░░░░░░░░░░░░░   36.00 % 
-Jupyter Notebook         5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/reeteshsudhakar/reeteshsudhakar/main/assets/bar_graph.png)
-
-
- Last Updated on 16/05/2023 21:06:07 UTC
-<!--END_SECTION:waka-->
 </details>
 
 <details align="center">
