@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="assets/header.png">
-</p>
-
-<p align="center">
 	<a href="https://linkedin.com/in/reeteshsudhakar"><img style="border-radius: 6px; overflow: hidden;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
 	</a>
 	<a href="https://instagram.com/reeteshsudhakar"><img style="border-radius: 6px;" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -78,22 +74,6 @@
 		<img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
 	</div>
 </details>
-<details align="center">
-	<summary>
-		<strong>:iphone: Scan me!</strong>
-	</summary>
-	<br>
-	<div class="row" align="center">
-		<img width="200" align="center" style="padding: 20px" src="https://github.com/reeteshsudhakar/reeteshsudhakar/blob/main/assets/scannables/facebook_code.png">
-		<img width="200" align="center" style="padding: 20px" src="https://github.com/reeteshsudhakar/reeteshsudhakar/blob/main/assets/scannables/snapcode.gif">
-		<img width="200" align="center" style="padding: 20px" src="https://github.com/reeteshsudhakar/reeteshsudhakar/blob/main/assets/scannables/instagram_code.png">
-		<img width="200" align="center" style="padding: 20px" src="https://github.com/reeteshsudhakar/reeteshsudhakar/blob/main/assets/scannables/website_code.png">
-	</div>
-</details>
-
-<p align="center">
-  <img src="assets/footer.png">
-</p>
 
 <!---
 reeteshsudhakar/reeteshsudhakar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
