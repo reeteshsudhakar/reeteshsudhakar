@@ -10,10 +10,10 @@
 
 ---
 
-- Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px"> My name is <a href="https://reeteshsudhakar.com"><strong>Reetesh Sudhakar</strong></a>, and I am a student at [**Georgia Tech**](https://gatech.edu), studying **Computer Science** with specializations in **Artificial Intelligence** and **Modeling & Simulation**. This summer, I'll be  a **Software Engineer Intern** at [**Robinhood**](https://robinhood.com/us/en/). Previously, I was a **Software Development Intern** at [**Siemens**]([https://sw.siemens.com](https://www.sw.siemens.com/en-US/)). I'm also currently an undergraduate researcher at Georgia Tech as a part of the [**VIP Program**](https://www.vip.gatech.edu/teams/vwa) (Vertically Integrated Projects). 
-- I’m interested in product/project management and its importance towards software development life cycles and product development. 
-- I’m currently spending time enhancing my programming skills in **Golang**, **principles of computer architecture and low-level programming**, and **web development (HTML/CSS)**, while also developing a business acumen through the process! 
-- Outside of academics, I'm into ultimate frisbee, debate, music - check out what I'm listening to right now with the widget below - (specifically, [a cappella](https://www.youtube.com/watch?v=un1HidgVOUk) and choral music), tennis, and Formula 1!
+- Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px"> My name is <a href="https://reeteshsudhakar.com"><strong>Reetesh Sudhakar</strong></a>, and I am a student at [**Georgia Tech**](https://gatech.edu), studying **Computer Science** with specializations in **Artificial Intelligence** and **Modeling & Simulation**. This summer, I'll be a **Software Engineer Intern** at [Chicago Trading Company](https://www.chicagotrading.com). Previously, I was a **Software Engineer Intern** at [**Robinhood**](https://robinhood.com/us/en/) on the experiments & configuration team, and a **Software Development Intern** at [**Siemens**]([https://sw.siemens.com](https://www.sw.siemens.com/en-US/)), working on Siemens Software Center. I've also worked as an undergraduate researcher at Georgia Tech as a part of the [**VIP Program**](https://www.vip.gatech.edu/teams/vwa) (Vertically Integrated Projects), and am a Teaching Assistant within the College of Computing (currently - CS 3600: Introduction to Artificial Intelligence; previously - CS 2340: Objects and Design).
+
+- Over the past year, I’ve become very interested in the realm of personal finance and how technology plays a role in helping us take charge of our money management on various scales - you'll probably see some stuff on here tinkering with that!
+- Outside of academics, I'm into ultimate frisbee, debate, music (specifically, [a cappella](https://www.youtube.com/watch?v=un1HidgVOUk) and choral music), and Formula 1!
 
 --- 
 
