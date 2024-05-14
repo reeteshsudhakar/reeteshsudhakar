@@ -20,6 +20,12 @@
 <details>
   <summary align="center"><strong>:bar_chart: Check out some more of my GitHub Stats!</strong></summary>
 <br>
+<div class="row" align="center">
+   <a href="https://github.com/reeteshsudhakar/my-github-stats">
+      <img src="https://github.com/reeteshsudhakar/my-github-stats/blob/master/generated/overview.svg">
+      <img src="https://github.com/reeteshsudhakar/my-github-stats/blob/master/generated/languages.svg">
+   </a>
+</div>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=reeteshsudhakar&theme=nord&margin-w=10&margin-h=10&row=1">
 </p>
