@@ -6,11 +6,9 @@
 	<a href="mailto:rsudhakar9@gatech.edu"><img style="border-radius: 6px;" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<h3 align="center"> <a><strong> Computer Science @ <a href="https://gatech.edu">Georgia Tech</a> || Passionate Software Developer || Formula 1 Enthusiast || Researcher and Advocate</strong></a> </h3>
-
 ---
 
-- Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px"> My name is <a href="https://reeteshsudhakar.com"><strong>Reetesh Sudhakar</strong></a>, and I am a student at [**Georgia Tech**](https://gatech.edu), pursuing my Master's degree in **Computer Science**. I'm also currently the Head Graduate Teaching Assistant for CS 3600: Introduction to Artificial Intelligence. After graduation, I'll be working for Chicago Trading Company as a Software Engineer. I've previously worked at Robinhood and Siemens. 
+- Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px"> My name is <a href="https://reeteshsudhakar.com"><strong>Reetesh Sudhakar</strong></a>. I'm an Associate Engineer at Chicago Trading Company. I completed my Bachelor's and Master's in Computer Science at Georgia Tech.
 
 - Over the past year, I’ve become very interested in the realm of personal finance and how technology plays a role in helping us take charge of our money management on various scales - you'll probably see some stuff on here tinkering with that!
 - Outside of academics, I'm into ultimate frisbee, debate, music (specifically, [a cappella](https://www.youtube.com/watch?v=un1HidgVOUk) and choral music), and Formula 1!
