@@ -3,15 +3,14 @@
 	</a>
 	<a href="https://instagram.com/reeteshsudhakar"><img style="border-radius: 6px;" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 	<a href="https://reeteshsudhakar.com/"><img style="border-radius: 6px;" src="https://img.shields.io/website?down_color=Red&down_message=Offline&logo=vercel&style=for-the-badge&up_color=Green&up_message=Online&url=https%3A%2F%2Freeteshsudhakar.com" /></a>
-	<a href="mailto:rsudhakar9@gatech.edu"><img style="border-radius: 6px;" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+	<a href="mailto:reesud6187@gmail.com"><img style="border-radius: 6px;" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-- Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px"> My name is <a href="https://reeteshsudhakar.com"><strong>Reetesh Sudhakar</strong></a>. I'm an Associate Engineer at Chicago Trading Company. I completed my Bachelor's and Master's in Computer Science at Georgia Tech.
+Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px"> My name is <a href="https://reeteshsudhakar.com"><strong>Reetesh Sudhakar</strong></a>. I'm an Engineer at Chicago Trading Company. I completed my Bachelor's and Master's in Computer Science at Georgia Tech.
 
-- Over the past year, I’ve become very interested in the realm of personal finance and how technology plays a role in helping us take charge of our money management on various scales - you'll probably see some stuff on here tinkering with that!
-- Outside of academics, I'm into ultimate frisbee, debate, music (specifically, [a cappella](https://www.youtube.com/watch?v=un1HidgVOUk) and choral music), and Formula 1!
+Outside of academics, I'm into ultimate frisbee, debate, music (specifically, [a cappella](https://www.youtube.com/watch?v=un1HidgVOUk) and choral music), and Formula 1!
 
 <!---
 reeteshsudhakar/reeteshsudhakar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
